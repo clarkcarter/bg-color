@@ -1,11 +1,17 @@
-**Name:** Background Color Changer<br />
-**Date created:** 29th Aug 2017<br />
-**Description:** this is part of my 'learning to code in React' self directed project. This app changes the background color of the page to a new random color when you click the button. Woah! 
+# Background Color Changer
+
+### Date created 
+29th Aug 2017
+
+### Description 
+This is part of my 'learning to code in React' self directed project. This app changes the background color of the page to a new random color when you click the button. Woah! 
 
 ---
 
-**Live demo:** https://clarkcarter.github.io/bg-colour-changer/<br />
+### Live demo
+https://clarkcarter.github.io/bg-colour-changer/
 
 ---
 
-**More info:** get in touch: <a href="mailto:clark@clarkcarter.com">clark@clarkcarter.com</a>
+### More info 
+clark@clarkcarter.com
